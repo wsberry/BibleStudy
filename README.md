@@ -5,13 +5,13 @@ My personal Bible Studies.
 
 ## Incomplete:
 
-- [ ] Mark
+- [ ] Daniel
 
 
 
 ## Completed:
 
-
+- [x] Mark
 
 
 

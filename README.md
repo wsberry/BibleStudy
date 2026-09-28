@@ -4,13 +4,11 @@
 
 #### 📁 Research
 
-​	Miscellaneous files related to biblical studies.
-
 ​	***Note:*** *This folder is for temporary work. Be sure to copy anything you wish to keep long term!*
 
 #### 📁 Commentaries
 
-​	📁 *Living in the Light of Revelation*
+​	📁 ***Living in the Light of Revelation***
 
 ​		A Study of Faithfulness, Perseverance, and Hope in the Book of Revelation 
 

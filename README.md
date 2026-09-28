@@ -1,37 +1,45 @@
-# BibleStudy
-My personal Bible Studies.
+# Bible Studies
 
+### Folders
 
+#### 📁 Research
 
-## Incomplete:
+​	Miscellaneous files related to biblical studies.
 
-- [ ] Daniel
+​	***Note:*** *This folder is for temporary work. Be sure to copy anything you wish to keep long term!*
 
+#### 📁 Commentaries
 
+- [ ] *Living in the Light of Revelation* — initial draft under construction
 
-## Completed:
+#### 📁 Bible Studies
 
-- [x] Mark
+#### 📁 Sermons
 
+------
 
+### Tools
 
-## Sources:
+- [Biblearc](https://app.biblearc.com)
+- [Bible.org](https://bible.org)
+- [Blue Letter Bible](https://www.blueletterbible.org)
+- [ESV.org](https://www.esv.org)
+- [NET Bible](https://netbible.org)
 
-Sources I use when studying the Bible.
+### Early Church Fathers
 
-https://bible.org
+- [Clement of Alexandria, *Who Is the Rich Man That Shall Be Saved?*](https://www.newadvent.org/fathers/0207.htm)
+- [Epiphanius of Salamis, *The Panarion* (Brill publisher page; no free full text)](https://brill.com/display/title/2731)
+- [Eusebius of Caesarea, *Church History*](https://www.newadvent.org/fathers/2501.htm)
+- [Irenaeus of Lyons, *Against Heresies*, Book I](https://www.newadvent.org/fathers/0103100.htm)
+- [Jerome, *Lives of Illustrious Men*](https://www.newadvent.org/fathers/2708.htm)
+- [Justin Martyr, *Dialogue with Trypho*](https://www.newadvent.org/fathers/0128.htm)
+- [Origen, *Commentary on the Gospel of Matthew*, Book I](https://www.newadvent.org/fathers/101601.htm)
+- [Tertullian, *Against Marcion*](https://www.newadvent.org/fathers/0312.htm)
+- [Tertullian, *Apology*](https://www.newadvent.org/fathers/0301.htm)
+- [Victorinus of Pettau, *Commentary on the Apocalypse*](https://www.newadvent.org/fathers/0712.htm)
 
-https://netbible.org
+## Classical Sources
 
-https://app.biblearc.com
-
-https://www.esv.orgs
-
-https://www.blueletterbible.org
-
-Strabo. (1923–1932). *Geography* (H. L. Jones, Trans.; Loeb Classical Library). Harvard University
-(link:[ https://www.loebclassics.com/view/LCL049/1917/volume.xml](https://www.loebclassics.com/view/LCL049/1917/volume.xml))
-
-Pliny the Elder. (1938). *Natural history* (H. Rackham, Trans.; Loeb Classical Library). Harvard University Press. (link: https://www.loebclassics.com/view/LCL330/1938/volume.xml)
-
-
+- Pliny the Elder. (1938). *Natural History* (H. Rackham, Trans.; Loeb Classical Library). Harvard University Press. [Read online](https://www.loebclassics.com/view/LCL330/1938/volume.xml)
+- Strabo. (1923–1932). *Geography* (H. L. Jones, Trans.; Loeb Classical Library). Harvard University Press. [Read online](https://www.loebclassics.com/view/LCL049/1917/volume.xml)

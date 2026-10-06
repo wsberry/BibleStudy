@@ -13,7 +13,7 @@ The opening greeting of this letter is easy to skip over without much thought. I
 
 The message given to John highlights the foundational truth that God has always eternally existed as three distinct persons (the Father, the Son, and the Holy Spirit) and that each person is fully God. This doctrine, known as the Trinity, teaches that there is only one God who exists in three persons. John reveals this concept clearly in these opening verses by indicating that this divine blessing flows uniquely from all three persons of the Godhead. He is very different from and far more powerful than the Roman Emperor, who claimed divinity for himself.
 
-> *He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. (Colossians 1:15-17)*
+> *He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. (Colossians 1:15-17 ESV)*
 
 ### 1. The Eternal Father and the Uncaused First Cause (v. 4)
 
@@ -23,7 +23,7 @@ John takes this idea of *"the One who is"* and expands it across the past, prese
 
 ### 2. The Seven Spirits: Angelic Council or Divine Fullness? (v. 4)
 
-Second, this blessing comes from "***the seven spirits who are before his throne.***" While some early readers and scholars have argued that these spirits refer to a special order of angels or messengers from Jewish traditions about Yahweh’s chief angels (The Gospel Coalition 2026), this view stands in stark tension with biblical theology as a whole. Presenting created spirits as a direct source of divine grace alongside God the Father and Jesus elevates them to a status they do not hold, since angels are never presented as being equal with God. Although this concept of a heavenly host or angelic council is a known theme in ancient Jewish thought that has merit in certain contexts (Heiser 2015), here and throughout the rest of Scripture, divine grace and blessing come only from God, never from created beings.
+Second, this blessing comes from "***the seven spirits who are before his throne.***" While some early readers and scholars have argued that these spirits refer to a special order of angels or messengers from Jewish traditions about Yahweh’s chief angels,[[^11]] this view stands in stark tension with biblical theology as a whole. Presenting created spirits as a direct source of divine grace alongside God the Father and Jesus elevates them to a status they do not hold, since angels are never presented as being equal with God. Although this concept of a heavenly host or angelic council is a known theme in ancient Jewish thought that has merit in certain contexts,[[^12]] here and throughout the rest of Scripture, divine grace and blessing come only from God, never from created beings.
 
 This reality is clearly seen when Paul opens his letters by wishing grace "*from God our Father and the Lord Jesus Christ*" in passages like Romans 1:7 and 1 Corinthians 1:3. Furthermore, the book of Revelation itself explicitly warns against elevating angels. In Revelation 19:10, an angel flatly refuses worship from John, telling him instead to *"Worship God!"*. Therefore, rather than introducing a group of angels into a divine greeting, the phrase is best understood as a symbolic portrayal of the one Holy Spirit working in the absolute fullness of His divine power and worldwide ministry throughout the global church. This is completely consistent with the symbolic language of prophetic literature like Revelation, where the number seven commonly conveys completeness and perfection rather than a literal numerical constant.
 
@@ -37,43 +37,42 @@ By introducing Jesus with this specific title, John reminds us of Christ's ident
 
 > For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. (John 3:16-17 ESV)
 
-This fulfills the ancient Old Testament portrait of the "*Suffering Servant*" in Isaiah 53:5. This prophecy, written centuries before Jesus lived, described a chosen Savior who would willingly take on human sinfulness and brokeness, one who would be *"pierced for our transgressions"* and *"crushed for our iniquities."* This link between witnessing and dying also echoes Paul’s words in 2 Corinthians 5:21, which notes that for our sake, *"God made Him to be sin who knew no sin, so that in him we might become the righteousness of God."* And because of this all Christians are now able to say with unwavering confidence:
+This fulfills the ancient Old Testament portrait of the "*Suffering Servant*" in Isaiah 53:5. This prophecy, written centuries before Jesus lived, described a chosen Savior who would willingly take on human sinfulness and brokenness, one who would be *"pierced for our transgressions"* and *"crushed for our iniquities."* This link between witnessing and dying also echoes Paul’s words in 2 Corinthians 5:21, which notes that for our sake, *"God made Him to be sin who knew no sin, so that in him we might become the righteousness of God."* And because of this, all Christians are now able to say with unwavering confidence:
 
 > Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. (Hebrews 4:14-16 ESV)
 
-If you are walking through a trial in your life this an incredible promise from God to be reminded of! God wants us to approach Him and depend on Him. James, the brother of Jesus, reminds us of this also:
+If you are walking through a trial in your life, this is an incredible promise from God to be reminded of! God wants us to approach Him and depend on Him. James, the brother of Jesus, reminds us of this also:
 
-> Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.
-> If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. (James 1:2-5 ESV)
+> Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. (James 1:2-5 ESV)
 
 ***Note:** I recommend reading through Isaiah 53 if you are not familiar with this passage.*
 
-What a privledge it is to say along with host of heaven, "*Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!*" (Revelation 5:12 ESV) Just as Christ was *"made to be sin"* on the cross to save us, His role as the *faithful martys* serves as His eternal credentials as our advocate, proving He is uniquely qualified to bridge the gap between a holy God and a broken humanity. As John writes later in Revelation:
+What a privilege it is to say along with the host of heaven, "*Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!*" (Revelation 5:12 ESV) Just as Christ was *"made to be sin"* on the cross to save us, His role as the *faithful martys* serves as His eternal credentials as our advocate, proving He is uniquely qualified to bridge the gap between a holy God and a broken humanity. As John writes later in Revelation:
 
-> “Worthy are you to take the scroll
+> "Worthy are you to take the scroll
 > and to open its seals,
 > for you were slain, and by your blood you ransomed people for God
 > from every tribe and language and people and nation,
 > and you have made them a kingdom and priests to our God,
-> and they shall reign on the earth.” (Revelation 5:10 ESV)
+> and they shall reign on the earth." (Revelation 5:9–10 ESV)
 
 ### 4. The Fivefold Identity of the Resurrected King (vv. 5–6)
 
-Forth, Jesus is described as ***the firstborn of the dead***. In ancient Jewish culture, the title "firstborn" did not mean that Jesus was a created being who happened to be born first. Instead, it was a legal title for the person who held the highest rank, preeminence, and inheritance in the family. By using this phrase, John is pointing directly to the resurrection. Jesus is the pioneer who conquered the grave, and His physical resurrection is the absolute guarantee that death is not the end of the story, giving incredible hope to anyone facing loss.
+First, Jesus is described as ***the firstborn of the dead***. In ancient Jewish culture, the title "firstborn" did not mean that Jesus was a created being who happened to be born first. Instead, it was a legal title for the person who held the highest rank, preeminence, and inheritance in the family. By using this phrase, John is pointing directly to the resurrection. Jesus is the pioneer who conquered the grave, and His physical resurrection is the absolute guarantee that death is not the end of the story, giving incredible hope to anyone facing loss.
 
-Third, John names Him ***the ruler of kings on earth***. In John's day, the brutal Roman Emperor Domitian sat on the throne, and today, worldly politicians and tyrants still seem to dictate the course of history. This title flatly rejected Roman propaganda that claimed the Emperor had ultimate, eternal control. Revelation pulls back the curtain to show us a deeper reality, which is that Jesus holds sovereign authority over every earthly government right now. Earthly rulers are just temporary actors on a stage that is entirely governed by the King of kings.
+Second, John names Him ***the ruler of kings on earth***. In John's day, the brutal Roman Emperor Domitian sat on the throne, and today, worldly politicians and tyrants still seem to dictate the course of history. This title flatly rejected Roman propaganda that claimed the Emperor had ultimate, eternal control. Revelation pulls back the curtain to show us a deeper reality, which is that Jesus holds sovereign authority over every earthly government right now. Earthly rulers are just temporary actors on a stage that is entirely governed by the King of kings.
 
-Fourth, John shifts into a song of praise, thanking the One ***who loves us and has freed us from our sins by his blood***. The grammar here uses a present, continuous tense for the word "loves," meaning His affection for us is a right-now, ongoing reality. This love was proven by a historic fact, namely that He permanently set us free from the weight, guilt, and shame of our failures through His sovereign sacrifice on the cross. If you are a child of God then you are much beloved by Him!
+Third, John shifts into a song of praise, thanking the One ***who loves us and has freed us from our sins by his blood***. The grammar here uses a present, continuous tense for the word "loves," meaning His affection for us is a right-now, ongoing reality. This love was proven by a historic fact, namely that He permanently set us free from the weight, guilt, and shame of our failures through His sovereign sacrifice on the cross. If you are a child of God then you are much beloved by Him!
 
-Fifth, he notes that Christ ***made us a kingdom, priests to his God and Father***. This phrase directly echoes the promise God made to ancient Israel at Mount Sinai in Exodus 19:6, where He called them to be a kingdom of priests. This theme is later picked up by the Apostle Peter, who reminds the early church that they are "*a royal priesthood, a holy nation*" (1 Peter 2:9). Now, that identical calling belongs to the global community of believers. Jesus does not save us to live as isolated individuals; He builds us into a community. Together, we are treated like royalty and given direct access to the presence of God, called to serve Him and represent His truth to a watching world. "*For of His fullness we have all received and grace upon grace.*" (John 1:16)
+Fourth, he notes that Christ ***made us a kingdom, priests to his God and Father***. This phrase directly echoes the promise God made to ancient Israel at Mount Sinai in Exodus 19:6, where He called them to be a kingdom of priests. This theme is later picked up by the Apostle Peter, who reminds the early church that they are "*a royal priesthood, a holy nation*" (1 Peter 2:9). Now, that identical calling belongs to the global community of believers. Jesus does not save us to live as isolated individuals; He builds us into a community. Together, we are treated like royalty and given direct access to the presence of God, called to serve Him and represent His truth to a watching world. "*For of His fullness we have all received and grace upon grace.*" (John 1:16 ESV)
 
-Finally, John concludes by giving Christ ***glory and dominion forever and ever***. This praise strongly echoes the language of Daniel 4:34 and 7:14, where true, everlasting dominion is given to the Most High and the Son of Man. Writing this was a bold, revolutionary statement during the height of the Roman Empire, where culture constantly claimed that human institutions and imperial power would last forever. John directly challenges that cultural narrative by declaring that true, permanent control over the universe belongs exclusively to God. It serves as a striking reminder to check where we place our ultimate loyalty and trust today.
+Fifth, John concludes by giving Christ ***glory and dominion forever and ever***. This praise strongly echoes the language of Daniel 4:34 and 7:14, where true, everlasting dominion is given to the Most High and the Son of Man. Writing this was a bold, revolutionary statement during the height of the Roman Empire, where culture constantly claimed that human institutions and imperial power would last forever. John directly challenges that cultural narrative by declaring that true, permanent control over the universe belongs exclusively to God. It serves as a striking reminder to check where we place our ultimate loyalty and trust today.
 
 ### 5. Hijacking the Culture: The Divine Cloud Rider (v. 7a)
 
-In verse 7, John shifts our focus from the present reality of Christ’s love to the breathtaking climax of history: "***Behold, he is coming with the clouds, and every eye will see him...***" To modern readers, coming "with the clouds" might sound like poetic way of imagining Jesus's return. But to an audience steeped in the Old Testament and ancient Near Eastern culture, this phrase carried an explosive, unmistakable claim to absolute divinity.
+In verse 7, John shifts our focus from the present reality of Christ’s love to the breathtaking climax of history: "***Behold, he is coming with the clouds, and every eye will see him...***" To modern readers, coming "with the clouds" might sound like a poetic way of imagining Jesus's return. But to an audience steeped in the Old Testament and ancient Near Eastern culture, this phrase carried an explosive, unmistakable claim to absolute divinity.
 
-In the ancient world surrounding Israel, nations worshipped storm and fertility gods. Most notably, the Canaanites worshipped Baal, explicitly giving him the prestigious, royal title: "*The Rider of the Clouds*". By riding the storm clouds, Baal supposedly demonstrated his sovereign authority, control over nature, and right to rule the pantheon.
+In the ancient world surrounding Israel, nations worshipped storm and fertility gods. Most notably, the Canaanites worshipped Baal, explicitly giving him the prestigious, royal title: *"The Rider of the Clouds"*. By riding the storm clouds, Baal supposedly demonstrated his sovereign authority, control over nature, and right to rule the pantheon.
 
 The Old Testament writers boldly hijacked this cultural narrative to launch a theological counter-punch. They repeatedly took Baal’s favorite title and attributed it exclusively to Yahweh, the true God of Israel.
 
@@ -118,12 +117,6 @@ In the original Greek text, the word translated as "Almighty" is **παντοκ�
 
 When God applies this seal to His own nature, He is assuring His people that because He is the Alpha, He has the authority to launch history, and because He is the Omega, He has the absolute power to finish it exactly the way He promised.
 
-Here is a custom-tailored **Application** section designed specifically for this text on Revelation 1:4–8. It mirrors the structural format, pastoral tone, and practical layout of your previous chapter while grounding the discussion points directly into the exegesis of the Trinity, the Divine Cloud Rider, and the political counter-punches you unpacked.
-
-The links and resource references have also been kept exact and verified against current data.
-
-------
-
 ## Application
 
 ### Putting the Scriptures into Practice
@@ -131,27 +124,52 @@ The links and resource references have also been kept exact and verified against
 John has woven many Old Testament scriptures into the greeting of Revelation. These are meant to radically reorient our believing allegiance to God Himself. When we recognize that our salvation flows from the unified fullness of the Triune God, it shifts our posture from anxious striving to deep spiritual rest in knowing that God is for His children. As you reflect on the identity of Jesus revealed in these opening verses, consider how you may actively anchor these truths into your life through intentional habits:
 
 1. **Resting in the Uncaused First Cause:** In a culture preoccupied with rapid changes and structural instability, we can easily find ourselves paralyzed by fear of the future. Intentionally pause this week to pray through the comfort of God's timeless name: the One *who is, who was, and who is to come*. Memorize and pray through Hebrews 4:14-16.
-2. **Interceding for the Global Witness:** The transformation of the word *martys* from a legal observer to a physical martyr reminds us of the high cost of a counter-cultural testimony. The same pressures that threatened John’s original readers in Asia Minor face millions of our global brothers and sisters today. Let the title *the faithful witness* stir a persistent commitment in you to lift up the persecuted church in prayer, asking that they receive divine endurance to stand firm. You can find up-to-date prayer needs and testimonies through the ministries highlight in the Application section of Chapter 1. Also try to do this often with one or more friends!
+2. **Interceding for the Global Witness:** The transformation of the word *martys* from a legal observer to a physical martyr reminds us of the high cost of a counter-cultural testimony. The same pressures that threatened John’s original readers in Asia Minor face millions of our global brothers and sisters today. Let the title *the faithful witness*stir a persistent commitment in you to lift up the persecuted church in prayer, asking that they receive divine endurance to stand firm. You can find up-to-date prayer needs and testimonies through the ministries highlighted in the Application section of Chapter 1. Also try to do this often with one or more friends!
 
 ### Reflection and Discussion Questions
 
 1. **Responding to the Cosmic Signature:** In verse 8, God breaks through the narrative to sign His name as the *Alpha and the Omega*, *the beginning and the end.* How does knowing that God encompasses absolutely every detail of human history alter the way you process personal disappointment, grief, or societal chaos?
-2. **Dethroning Modern Cloud Riders:** John masterfully takes the ancient storm-god title "*Rider of the Clouds*" and applies it directly to Jesus to show who really runs the world. What are the functional "*cloud riders*" in our modern secular culture?These may be economic systems, ideological movements, or political figures that we overly trust in. How can we practically counter these cultural narratives in our homes, workplaces, and churches?
-3. **Living Under Imperial Pretensions:** The Roman Empire often lay claim to the title *pantokratōr* (Almighty) to enforce total submission, but John reminds us that human dictators are living in a dangerous delusion. In what subtle ways do we tend to overestimate the permanent power of human institutions or worldly leaders? How does recognizing Jesus as the *true* Ruler of kings on earth change how and where you put your trust in the things of this world?
-4. **The Weight of the Wounds:** When Christ returns on the clouds, *every eye will see him, even those who pierced him*, bringing both the wail of judgment and the wail of brokenhearted repentance. When you look at the wounds of the Savior, how does that balance of fierce cosmic justice, and tender costly grace affect your view of sin? Where should our understanding of who Jesus is lead 
+2. **Dethroning Modern Cloud Riders:** John masterfully takes the ancient storm-god title "*Rider of the Clouds*" and applies it directly to Jesus to show who really runs the world. What are the functional "*cloud riders*" in our modern secular culture? These may be economic systems, ideological movements, or political figures that we overly trust in. How can we practically counter these cultural narratives in our homes, workplaces, and churches?
+3. **Living Under Imperial Pretensions:** The Roman Empire often laid claim to the title *pantokratōr* (Almighty) to enforce total submission, but John reminds us that human dictators are living in a dangerous delusion. In what subtle ways do we tend to overestimate the permanent power of human institutions or worldly leaders? How does recognizing Jesus as the *true* Ruler of kings on earth change how and where you put your trust in the things of this world?
+4. **The Weight of the Wounds:** When Christ returns on the clouds, *every eye will see him, even those who pierced him*, bringing both the wail of judgment and the wail of brokenhearted repentance. When you look at the wounds of the Savior, how does that balance of fierce cosmic justice and tender costly grace affect your view of sin? Where should our understanding of who Jesus is lead us when facing systemic or cultural compromise?
 5. **Embracing the Shared Priesthood:** John reminds us that Jesus did not save us to live as isolated individuals; He has structurally made us into a unified kingdom of priests to serve His God and Father. How well are you leaning into this corporate calling? What are some practical ways your local community of believers can better represent God's truth, holiness, and direct access to a watching, skeptical world?
 
-------
+## Footnotes
 
-## References
+[^11]: See The Gospel Coalition, "Who Are the 7 Spirits in Revelation?" (2026), accessed October 2, 2026, thegospelcoalition.org.
+[^12]: Michael S. Heiser, *The Unseen Realm: Recovering the Supernatural Worldview of the Bible* (Bellingham, WA: Lexham Press, 2015).
+[^13]: For the lexical and contextual mapping of *engys* (ἐγγύς) in the New Testament alongside its structural role alongside Old Testament prophetic language, see G. K. Beale, *The Book of Revelation*, NIGTC, on Revelation 1:3.
 
-Heiser, Michael S. 2015. *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Bellingham, WA: Lexham Press.
 
-The Gospel Coalition. 2026. "Who Are the 7 Spirits in Revelation?" Accessed October 2, 2026. thegospelcoalition.org.
 
-------
+## Appendix A: Definitions
 
-## Appendix A: Old Testament Foundations in John’s Portrait of Jesus
+**Amillennialism (Symbolic-Only View)**: The perspective that interprets the descriptions in Revelation as symbolic spiritual realities rather than a literal future calendar of events. Adherents reject a literal future thousand-year earthly kingdom, focusing instead on Christ's current heavenly rule or His spiritual presence within the Church during the present age between His first and second comings.
+
+**Classic Earthly Kingdom View**: *See Historical Premillennialism below.*
+
+**Dispensationalism (Multi-Stage Timeline Systems)**: A systematic theological framework that views the historical unfolding of God's plan through distinct, separate periods or administrations called economies or dispensations. A defining characteristic is the maintenance of a strict structural separation between God's plans for national Israel and His plans for the New Testament Church.
+
+**Future-Event Approach**: *See Historic Futurism below.*
+
+**Historic Futurism (Future-Event Approach)**: An approach to biblical interpretation holding that the major prophetic visions and judgments in the book of Revelation describe literal historical occurrences that will take place at the end of the age rather than being entirely fulfilled in antiquity.
+
+**Historical Premillennialism (Classic Earthly Kingdom View)**: The traditional view held widely by the earliest leaders of the church, asserting that Jesus Christ will return physically to the earth after a final period of intense testing (the final trial). Following this visible, post-tribulational return, Christ will establish a literal thousand-year reign of peace on earth, during which the Church remains active in the world as a visible witness.
+
+**Millennial Kingdom (The Thousand-Year Reign)**: The literal thousand-year earthly reign of Jesus Christ following His second coming, described throughout Scripture as a future era characterized by a perfect, righteous government, the absolute subjection of demonic forces, global peace, and spiritual restoration.
+
+**Post-millennialism (Progressive Spiritual Triumph)**: The viewpoint holding that the second coming of Christ will occur after a long era of widespread peace and global spiritual renewal, which is progressively realized in the present age through the triumphant spiritual influence of the Church sharing the gospel.
+
+**Preterism (Ancient-Past Fulfillment)**: An interpretive approach to biblical prophecy holding that most or all of the predictions in the book of Revelation were already entirely fulfilled in the past, primarily during the early centuries of the Christian era.
+
+- **Partial Preterism**: The view that the vast majority of Revelation (chapters 1 through 19) was fulfilled in the ancient past, culminating specifically in the destruction of Jerusalem and the temple in A.D. 70, while still anticipating a future physical resurrection and the personal return of Christ at the very end of history.
+- **Full Preterism (Hyper-Preterism)**: The radical view that all biblical prophecy, including the second coming of Christ, the resurrection of the dead, and the creation of the New Heavens and New Earth, was entirely fulfilled in the spiritual realm during the destruction of Jerusalem in A.D. 70.
+
+**Pretribulational Dispensationalism**: A specific variation of dispensationalism holding that Jesus Christ will secretly return to catch up (rapture) the Church into heaven prior to the beginning of a final seven-year period of world history. This framework separates the rapture from the visible second coming of Christ by a seven-year tribulation period.
+
+**The Final Trial (The Great Tribulation)**: An intense, future period of unprecedented global distress, widespread spiritual conflict, severe persecution of the saints, and catastrophic divine judgments that immediately precedes the glorious, visible second coming of Jesus Christ to the earth.
+
+## Appendix B: Old Testament Foundations in John’s Portrait of Jesus
 
 | John's Description of Jesus     | Old Testament Background Passage              | Theological Meaning and Context                              |
 | :------------------------------ | :-------------------------------------------- | :----------------------------------------------------------- |
